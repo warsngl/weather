@@ -8,8 +8,8 @@ export default {
 </script>
 
 <template lang='pug'>
-TheNavbar.mb-8
 .flex.flex-col.items-center
+  TheNavbar.mb-8
   router-view
 </template>
 
